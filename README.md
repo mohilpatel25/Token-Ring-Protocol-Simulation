@@ -2,7 +2,7 @@ The token ring network protocol is a collision free protocol which connects the 
 This project, built with the help of Java, is a simulation of the token ring protocol.
 
 Following are the features of this simulation :-
-- The user can choose no. of nodes as 3,4,5 or 6.
+- The user can choose no. of nodes as 3,4 or 5.
 - A simple graphic simulation.
 - A table is displayed which shows the queued packets at all the nodes.
 - The token can only take a new packet once it has delivered a packet it already has.
